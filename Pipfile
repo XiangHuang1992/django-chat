@@ -10,6 +10,7 @@ flake8 = "*"
 django = "*"
 djangorestframework = "*"
 djoser = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "3.6"
